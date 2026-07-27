@@ -1,8 +1,15 @@
 aid: hongene-biotech
 name: Hongene Biotech
-description: 'Hongene Biotech is a company surfaced as a portfolio company of hongshan and added to the
-  API Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Hongene Biotech Corporation is a nucleic acid contract development and
+  manufacturing organization (CDMO) founded in 1998, with nearly 30 years of RNA-focused
+  expertise. It offers vertically integrated services spanning oligonucleotide API
+  manufacturing (from preclinical to commercial, GMP up to tonne scale), mRNA CDMO
+  services (raw materials through enzymes and lipids to GMP manufacture and fill-finish),
+  custom chemical synthesis of nucleic acid building blocks, and chemoenzymatic ligation
+  for siRNA and sgRNA. Hongene supplies premium nucleic acid raw materials worldwide
+  and runs an online store for direct-purchase reagents. This profile was surfaced
+  as a portfolio company of Hongshan and enriched from Hongene public web surfaces;
+  the company publishes no developer API.'
 url: https://raw.githubusercontent.com/api-evangelist/hongene-biotech/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,15 +17,54 @@ x-backed-by:
 - hongshan
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://www.hongene.com/content/themes/hongene/_dist/images/logo.svg
 tags:
 - Company
 - Healthcare
+- Biotechnology
+- CDMO
+- Nucleic Acids
+- Oligonucleotide
+- mRNA
+- Pharmaceutical Manufacturing
+- RNA Therapeutics
 apis: []
+common:
+- type: Website
+  url: https://www.hongene.com/
+- type: Blog
+  url: https://www.hongene.com/news/
+- type: Support
+  url: https://www.hongene.com/contact-us/
+- type: PrivacyPolicy
+  url: https://www.hongene.com/privacy-policy/
+- type: LLMsTxt
+  url: llms/hongene-biotech-llms.txt
+- type: WellKnown
+  url: well-known/hongene-biotech-well-known.yml
+- type: DomainSecurity
+  url: security/hongene-biotech-domain-security.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

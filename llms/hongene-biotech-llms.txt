@@ -1,0 +1,33 @@
+# Hongene Biotech
+
+Usage: summarization
+
+Training: disallow
+
+The XML sitemap of this website can be found by following [this link](https://www.hongene.com/sitemap_index.xml).
+
+> With nearly 30 years of RNA-focused expertise, Hongene Biotech Corporation offers seamless support from raw materials to GMP drug product\.
+
+## Pages
+- [Products](https://www.hongene.com/products/): Direct Access to Premium Nucleic Acid Raw Materials\.
+- [Services](https://www.hongene.com/services/): Vertically integrated CDMO services for oligonucleotide and mRNA therapeutics\.
+- [Facilities](https://www.hongene.com/about-us/facilities/): Our infrastructure is designed to advance oligonucleotide and mRNA programs seamlessly — from early development through to commercial supply\.
+- [News and insights](https://www.hongene.com/news/): Stay up to date with Hongene\'s latest developments — from new technologies and product launches to scientific publications, industry recognition and global events\.
+
+## News
+- [Hongene Demonstrates Advanced Oligonucleotide CDMO Capabilities Through Support of SiranBio's Dual-Target siRNA Program](https://www.hongene.com/news/hongene-demonstrates-advanced-oligonucleotide-cdmo-capabilities-through-support-of-siranbios-dual-target-sirna-program/)
+- [Hongene Biotech Announces Grant to Expand Global Access to mRNA Vaccine Raw Materials](https://www.hongene.com/news/hongene-biotech-announces-grant-to-expand-global-access-to-mrna-vaccine-raw-materials/)
+- [Built to Scale, Chemoenzymatic Ligation Takes RNA Therapeutics from Lab to Clinic](https://www.hongene.com/resources/blogs/built-to-scale-chemoenzymatic-ligation-takes-rna-therapeutics-from-lab-to-clinic/)
+- [The Hidden Costs of Fragmented Supply Chains in Nucleic Acid Therapeutics](https://www.hongene.com/resources/blogs/the-hidden-costs-of-fragmented-supply-chains-in-nucleic-acid-therapeutics/)
+- [Chemoenzymatic Synthesis of siRNA and sgRNA Using Ligation Technology](https://www.hongene.com/resources/blogs/chemoenzymatic-synthesis-of-sirna-and-sgrna-using-ligation-technology/)
+
+## Leadership Team
+- [KS Chin](https://www.hongene.com/about-us/who-we-are/): SVP, Global Business Development
+- [David Yu](https://www.hongene.com/about-us/who-we-are/): VP, US Scientific Operations and Business Development
+- [Michael Leuck](https://www.hongene.com/about-us/who-we-are/): VP, European Market
+- [Yansheng Wu](https://www.hongene.com/about-us/who-we-are/): VP, Global Head of CMC & Regulatory
+
+## Services
+- [Comprehensive Oligonucleotide Manufacturing Solutions](https://www.hongene.com/services/oligo-manufacturing/): Delivering quality, scalability, and cost effectiveness across the full oligo development lifecycle\.
+- [mRNA CDMO Services](https://www.hongene.com/services/mrna-cdmo-services/): A vertically integrated platform for mRNA vaccines and therapeutics, accelerating the development and delivery of life\-saving treatments\.
+- [Custom Chemical Synthesis for Nucleic Acid Building Blocks](https://www.hongene.com/services/custom-synthesis/): Tailored solutions to accelerate your oligonucleotide and mRNA programs\.
